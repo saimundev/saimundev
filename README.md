@@ -1,6 +1,6 @@
 ![web devloper](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)
 <h1 align="center">Hi 👋, I'm md saimun islam</h1>
-<h3 align="center">A Passionate MERN Stack Developer And UI/UX Designer</h3>
+<h3 align="center">A PASSIONATE MERN STACK DEVELOPER AND UI/UX DESIGNER</h3>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaimunshezan&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaimunshezan" /> </p>
